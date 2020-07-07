@@ -1,5 +1,3 @@
-
-
 service: test-project
 # app and org for use with dashboard.serverless.com
 app: test-application
